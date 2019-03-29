@@ -1,22 +1,21 @@
 # GitHub 表情大全
-
 尽情的使用这些表情吧
 
-[![GitHub](https://img.shields.io/github/license/isArtJay/GitHub-Emoji.svg)](<https://github.com/isArtJay/GitHub-Emoji/blob/master/LICENSE>)[![GitHub issues](https://img.shields.io/github/issues/isArtJay/GitHub-Emoji.svg?color=green)](<https://github.com/isArtJay/GitHub-Emoji/issues>)[![GitHub forks](https://img.shields.io/github/forks/isArtJay/GitHub-Emoji.svg?style=popout)](<https://github.com/isArtJay/GitHub-Emoji/network/members>)[![GitHub stars](https://img.shields.io/github/stars/isArtJay/GitHub-Emoji.svg?style=popout)](<https://github.com/isArtJay/GitHub-Emoji/stargazers>)
+[![GitHub](https://img.shields.io/github/license/isArtJay/GitHub-Emoji.svg)](<https://github.com/isArtJay/GitHub-Emoji/blob/master/LICENSE>)[![GitHub issues](https://img.shields.io/github/issues/isArtJay/GitHub-Emoji.svg?color=green)](<https://github.com/isArtJay/GitHub-Emoji/issues>)[![GitHub forks](https://img.shields.io/github/forks/isArtJay/GitHub-Emoji.svg?style=popout)](<https://github.com/isArtJay/GitHub-Emoji/network/members>)[![GitHub stars](https://img.shields.io/github/stars/isArtJay/GitHub-Emoji.svg?style=popout)](<https://github.com/isArtJay/GitHub-Emoji/stargazers>)[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README-EN.md)
 
-[English](<https://github.com/isArtJay/GitHub-Emoji/blob/master/README-EN.md>)
+目录
+-----------------
 
-## 目录
+- [人物](#人物)
+- [自然](#自然)
+- [事物](#事物)
+- [地点](#地点)
+- [符号](#符号)
 
-- [人物]()
-- [自然]()
-- [事物]()
-- [地点]()
-- [符号]()
-
-## 人物
+## 人物 ##
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
+|---|---|---|
 | :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
 | :smirk: `:smirk:` | :heart_eyes: `:heart_eyes:` | :kissing_heart: `:kissing_heart:` |
 | :kissing_closed_eyes: `:kissing_closed_eyes:` | :flushed: `:flushed:` | :relieved: `:relieved:` |
@@ -80,11 +79,12 @@
 | :feelsgood: `:feelsgood:` | :finnadie: `:finnadie:` | :goberserk: `:goberserk:` |
 | :godmode: `:godmode:` | :hurtrealbad: `:hurtrealbad:` | :rage1: `:rage1:` |
 | :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
-| :suspect: `:suspect:` | :trollface: `:trollface:` | 
+| :suspect: `:suspect:` | :trollface: `:trollface:` |
 
-## 自然
+## 自然 ##
 
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
+|---|---|---|
 | :snowflake: `:snowflake:` | :snowman: `:snowman:` | :zap: `:zap:` |
 | :cyclone: `:cyclone:` | :foggy: `:foggy:` | :ocean: `:ocean:` |
 | :cat: `:cat:` | :dog: `:dog:` | :mouse: `:mouse:` |
@@ -124,9 +124,10 @@
 | :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | :octocat: `:octocat:` |
 | :squirrel: `:squirrel:` |
 
-## 事物
+## 事物 ##
 
 | :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
+|---|---|---|
 | :school_satchel: `:school_satchel:` | :mortar_board: `:mortar_board:` | :flags: `:flags:` |
 | :fireworks: `:fireworks:` | :sparkler: `:sparkler:` | :wind_chime: `:wind_chime:` |
 | :rice_scene: `:rice_scene:` | :jack_o_lantern: `:jack_o_lantern:` | :ghost: `:ghost:` |
@@ -214,9 +215,10 @@
 | :sweet_potato: `:sweet_potato:` | :eggplant: `:eggplant:` | :tomato: `:tomato:` |
 | :corn: `:corn:` |
 
-## 地点
+## 地点 ##
 
 | :house: `:house:` | :house_with_garden: `:house_with_garden:` | :school: `:school:` |
+|---|---|---|
 | :office: `:office:` | :post_office: `:post_office:` | :hospital: `:hospital:` |
 | :bank: `:bank:` | :convenience_store: `:convenience_store:` | :love_hotel: `:love_hotel:` |
 | :hotel: `:hotel:` | :wedding: `:wedding:` | :church: `:church:` |
@@ -253,9 +255,10 @@
 | :ru: `:ru:` | :gb: `:gb:` | :uk: `:uk:` |
 | :de: `:de:` |
 
-## 符号
+## 符号 ##
 
 | :one: `:one:` | :two: `:two:` | :three: `:three:` |
+|---|---|---|
 | :four: `:four:` | :five: `:five:` | :six: `:six:` |
 | :seven: `:seven:` | :eight: `:eight:` | :nine: `:nine:` |
 | :keycap_ten: `:keycap_ten:` | :1234: `:1234:` | :zero: `:zero:` |
@@ -320,12 +323,3 @@
 | :large_blue_circle: `:large_blue_circle:` | :large_blue_diamond: `:large_blue_diamond:` | :large_orange_diamond: `:large_orange_diamond:` |
 | :small_blue_diamond: `:small_blue_diamond:` | :small_orange_diamond: `:small_orange_diamond:` | :small_red_triangle: `:small_red_triangle:` |
 | :small_red_triangle_down: `:small_red_triangle_down:` | :shipit: `:shipit:` |
-
-
-
-
-
-
-
-
-
