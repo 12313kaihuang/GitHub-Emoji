@@ -1,6 +1,4 @@
-# GitHub Emoji
-
-[English]()
+# GitHub Emoji-list
 
 为大家整理了
 
