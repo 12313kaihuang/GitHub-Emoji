@@ -1,7 +1,7 @@
 # GitHub 表情大全
 尽情的使用这些表情吧
 
-[![GitHub](https://img.shields.io/github/license/isArtJay/GitHub-Emoji.svg)](<https://github.com/isArtJay/GitHub-Emoji/blob/master/LICENSE>)[![GitHub issues](https://img.shields.io/github/issues/isArtJay/GitHub-Emoji.svg?color=green)](<https://github.com/isArtJay/GitHub-Emoji/issues>)[![GitHub forks](https://img.shields.io/github/forks/isArtJay/GitHub-Emoji.svg?style=popout)](<https://github.com/isArtJay/GitHub-Emoji/network/members>)[![GitHub stars](https://img.shields.io/github/stars/isArtJay/GitHub-Emoji.svg?style=popout)](<https://github.com/isArtJay/GitHub-Emoji/stargazers>)[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README-EN.md)
+[![GitHub](https://img.shields.io/github/license/isArtJay/GitHub-Emoji.svg)](<https://github.com/isArtJay/GitHub-Emoji/blob/master/LICENSE>)  [![GitHub issues](https://img.shields.io/github/issues/isArtJay/GitHub-Emoji.svg?color=green)](<https://github.com/isArtJay/GitHub-Emoji/issues>)  [![GitHub forks](https://img.shields.io/github/forks/isArtJay/GitHub-Emoji.svg?style=popout)](<https://github.com/isArtJay/GitHub-Emoji/network/members>)  [![GitHub stars](https://img.shields.io/github/stars/isArtJay/GitHub-Emoji.svg?style=popout)](<https://github.com/isArtJay/GitHub-Emoji/stargazers>)[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README-EN.md)
 
 目录
 -----------------
